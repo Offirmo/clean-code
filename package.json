@@ -1,0 +1,16 @@
+{
+  "name": "@offirmo/clean-code",
+  "version": "0.0.1",
+  "description": "Experiment of aggregating code cleaning tools",
+  "main": "index.js",
+  "repository": {
+    "url": "git@github.com:Offirmo/clean-code.git",
+    "type": "git"
+  },
+  "author": "Offirmo <offirmo.net@gmail.com>",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "eslint": "^3.7.1",
+    "tslint": "^3.15.1"
+  }
+}

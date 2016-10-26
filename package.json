@@ -1,5 +1,5 @@
 {
-  "name": "@offirmo/clean-code",
+  "name": "@offirmo/clean-code-toolbox",
   "version": "0.0.1",
   "description": "Experiment of aggregating code cleaning tools",
   "main": "index.js",

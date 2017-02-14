@@ -6,3 +6,4 @@ https://github.com/css/csso
 https://github.com/kangax/html-minifier -> links to other !
 https://github.com/airbnb/javascript
 http://jlongster.com/A-Prettier-Formatter
+https://github.com/not-an-aardvark/eslint-plugin-prettier

@@ -1,4 +1,5 @@
 
+https://github.com/prettier/prettier
 https://github.com/evanshortiss/lintspaces-cli
 https://github.com/mishoo/UglifyJS2
 https://github.com/ben-eb/cssnano
